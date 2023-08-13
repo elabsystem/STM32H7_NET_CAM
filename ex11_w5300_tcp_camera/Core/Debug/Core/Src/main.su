@@ -1,0 +1,13 @@
+../Core/Src/_user_code_intit.h:3:5:_write	32	static
+../Core/Src/_user_code_intit.h:13:6:init_project	8	static
+../Core/Src/_user_code_w5300.h:35:6:Reset_W5300	8	static
+../Core/Src/_user_code_w5300.h:43:6:W5300_write	16	static
+../Core/Src/_user_code_w5300.h:48:10:W5300_read	16	static
+../Core/Src/_user_code_w5300.h:55:6:print_network_information	32	static
+../Core/Src/_user_code_w5300.h:67:6:_InitW5300	24	static
+../Core/Src/main.c:70:5:main	8	static
+../Core/Src/main.c:118:6:SystemClock_Config	128	static
+../Core/Src/main.c:183:13:MX_USART1_UART_Init	8	static
+../Core/Src/main.c:227:13:MX_FMC_Init	40	static
+../Core/Src/main.c:285:13:MX_GPIO_Init	56	static
+../Core/Src/main.c:339:6:Error_Handler	4	static,ignoring_inline_asm

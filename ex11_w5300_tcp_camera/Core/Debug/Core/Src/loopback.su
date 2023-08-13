@@ -1,0 +1,3 @@
+../Core/Src/loopback.c:8:9:loopback_tcps	56	static
+../Core/Src/loopback.c:88:9:loopback_tcpc	56	static
+../Core/Src/loopback.c:177:9:loopback_udps	48	static
