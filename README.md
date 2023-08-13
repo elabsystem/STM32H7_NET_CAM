@@ -1,4 +1,4 @@
-# STM32H7_NET_CAM
+# W5300 Network Camera for Real Time AI with STM32H7
 * [https://nexp.tistory.com/3043](https://nexp.tistory.com/3935)
 * https://nexp.tistory.com/tag/STM32H7_RP
 * 
