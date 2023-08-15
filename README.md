@@ -1,5 +1,5 @@
 # W5300 Network Camera for Real Time AI with STM32H7
-* [Wiznet Maker W5300 Contest](http://maker.wiznet.io/nexp/contest/make-w5300-network-camera-for-realtime-ai-with-stm32h7/)
+* [Wiznet Makers W5300 Contest](http://maker.wiznet.io/nexp/contest/make-w5300-network-camera-for-realtime-ai-with-stm32h7/)
 * [STM32H7-RP Board Example](https://nexp.tistory.com/tag/STM32H7_RP)
 
 
